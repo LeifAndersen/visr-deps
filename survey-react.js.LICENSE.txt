@@ -15,10 +15,3 @@
  * http://www.lemoda.net/maths/bezier-length/index.html
  *
  */
-
-/**!
- * Sortable 1.13.0
- * @author	RubaXa   <trash@rubaxa.org>
- * @author	owenm    <owen23355@gmail.com>
- * @license MIT
- */
