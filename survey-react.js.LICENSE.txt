@@ -15,3 +15,9 @@
  * http://www.lemoda.net/maths/bezier-length/index.html
  *
  */
+
+/*!
+ * surveyjs - Survey JavaScript library v1.9.55
+ * Copyright (c) 2015-2022 Devsoft Baltic OÜ  - http://surveyjs.io/
+ * License: MIT (http://www.opensource.org/licenses/mit-license.php)
+ */

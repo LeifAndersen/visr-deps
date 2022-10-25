@@ -12,3 +12,7 @@
   OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
   PERFORMANCE OF THIS SOFTWARE.
   ***************************************************************************** */
+
+/*! OpenPGP.js v5.5.0 - 2022-08-31 - this is LGPL licensed code, see LICENSE/our website https://openpgpjs.org/ for more information. */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
